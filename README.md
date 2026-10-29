@@ -4,7 +4,7 @@
 
 ### Hi 🛰️, it's Laura :)
 
-> *"Data Science graduate & Cybersecurity Analyst with 2+ years of SOC & Detection Engineering experience, specialized in turning complex security data into actionable defensive insights."*
+> *Data Science graduate & Cybersecurity Analyst with 2+ years of SOC & Detection Engineering experience, specialized in turning complex security data into actionable defensive insights.*
 
 ---
 
