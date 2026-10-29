@@ -11,7 +11,7 @@
 ### 🚀 About Me
 
 - 🔭 I’m currently working on **Advanced Threat Detection & Data Analysis**.
-- ⚡ **Fun Fact:** When choosing my degree, I couldn't decide between ComSci and Aerospace Eng, so now I bring space vibes to data + cybersecurity *(the very first time I coded, I actually hated it).*
+- ⚡ **Fun Fact:** When choosing my degree, I couldn't decide between CompSci and Aerospace Eng, so now I bring space visuals to data + cybersecurity *(the very first time I coded, I actually hated it).*
 - 📬 **Let's connect:** Reach out via [LinkedIn](https://www.linkedin.com/in/laura-salguero-vidal/), [Kaggle](https://www.kaggle.com/laurasalguero) or visit my [Personal Website](https[://test.com) -- Still in TEST sorry.
 
 ---
