@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./banner_black.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./banner_black.jpg">
     <source media="(prefers-color-scheme: light)" srcset="./banner_white.png">
     <img src="./banner_white.png" alt="Banner Astronauta" width="100%">
   </picture>
