@@ -1,5 +1,18 @@
 <p align="center">
-  <img src="banner.png" width="100%">
+  <img src="banner_white.png" width="100%">
+</p>
+
+<p align="center">
+  <picture>
+    <!-- Imagen que se mostrará cuando GitHub esté en MODO OSCURO -->
+    <source media="(prefers-color-scheme: dark)" srcset="banner_white.png">
+    
+    <!-- Imagen que se mostrará cuando GitHub esté en MODO CLARO -->
+    <source media="(prefers-color-scheme: light)" srcset="banner_white.png">
+    
+    <!-- Imagen por defecto (por si el navegador no soporta el selector) -->
+    <img src="banner_white.png" alt="Astronaut Banner" width="100%">
+  </picture>
 </p>
 
 ### Hi 🛰️, it's Laura :)
